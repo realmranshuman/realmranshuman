@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @realmranshuman
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am a full stack developer and digital entrepreneur with a passion for helping businesses take their operations online. I understand that every business is unique and that's why I offer a tailored approach to help you achieve your goals.
 
-<!---
-realmranshuman/realmranshuman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### With my services, I can help you with: 
+- Website and app development
+- Branding
+- Marketing strategies
+- Social media management
+- Content creation
+- Search engine optimization (SEO)
+- Advertising
+- Public relations
+- Skilled at converting prospects to customers
+- Will work with businesses to achieve higher returns on investment and reach new heights
+- Available to discuss and execute any digital project
+
+If you have a digital project in mind, don't hesitate to reach out to me on [Facebook](https://facebook.com/realmranshuman). I am always happy to discuss your requirements and make it happen. Trust me, my background and skills is a perfect match to take your business online.
