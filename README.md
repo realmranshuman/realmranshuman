@@ -10,8 +10,6 @@ I am a full stack developer and digital entrepreneur with a passion for helping 
 - Search engine optimization (SEO)
 - Advertising
 - Public relations
-- Skilled at converting prospects to customers
-- Will work with businesses to achieve higher returns on investment and reach new heights
-- Available to discuss and execute any digital project
-
+- Converting prospects to customers
+### Available to discuss and execute any digital project
 If you have a digital project in mind, don't hesitate to reach out to me on [Facebook](https://facebook.com/realmranshuman). I am always happy to discuss your requirements and make it happen. Trust me, my background and skills is a perfect match to take your business online.
