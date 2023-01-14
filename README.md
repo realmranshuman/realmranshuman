@@ -1,5 +1,5 @@
 # Why me?
-I am a full stack developer and digital entrepreneur with a passion for helping businesses take their operations online. I understand that every business is unique and that's why I offer a tailored approach to help you achieve your goals.
+I am a full stack developer and digital entrepreneur with a passion for helping businesses to take their operations online. I understand that every business is unique and that's why I offer a tailored approach to help you achieve your goals.
 
 ## With my services, I can help you with: 
 - Website and app development
